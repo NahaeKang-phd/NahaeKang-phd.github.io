@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.A. Economics, Korea University, Seoul, 2020
-* B.A. Food and Resources Economics, Korea University, Seoul <i>with Great Honor</i>, 2015
+* B.A. Food and Resources Economics, Korea University, Seoul, <i>with Great Honor</i>, 2015
 
 <!---
 Work experience
