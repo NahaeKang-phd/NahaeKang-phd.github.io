@@ -21,7 +21,7 @@ repository               : "nahaekang-phd/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   name             : "Nahae Kang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student"
