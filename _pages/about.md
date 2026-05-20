@@ -11,9 +11,10 @@ redirect_from:
 * /about.html
 
 ---
-<p> Hello, I am a passionate researcher in applied economics and health economics. My research primarily examines the intersection of household consumption and health outcomes.</p>
 
-<p> Currently, I am a Postdoctoral Scholar in Consumer Science within the Department of Human Sciences at The Ohio State University. My work focuses on how behavioral and policy factors impact overall well-being. Prior to my current role, I earned my BA in Food and Resource Economics and an MA in Economics, both from Korea University. </p>
+<p> Hello, I am a passionate researcher in applied economics and health economics. My research interests lie at the intersection of policy evaluation, children's health, and environmental health. </p>
+
+<p> I hold a BA in Food and Resource Economics and an MA in Economics, both from Korea University. Currently, I am pursuing Ph.D. in Consumer Science in the Department of Human Sciences at The Ohio State University. My dissertation explores issues in health economics, particularly the effects of behavioral and policy factors on well-being. </p>
 
 <!---
 
