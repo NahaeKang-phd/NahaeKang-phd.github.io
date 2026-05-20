@@ -1,12 +1,8 @@
 ---
-
 permalink: /
-
 # title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-
 author_profile: true
 redirect_from:
-
     - /about/
     - /about.html
 ---
@@ -14,6 +10,7 @@ redirect_from:
 <p> Hello, I am a passionate researcher in applied economics and health economics. My research interests lie at the intersection of policy evaluation, children's health, and environmental health. </p>
 
 <p> I hold a BA in Food and Resource Economics and an MA in Economics, both from Korea University. Currently, I am pursuing Ph.D. in Consumer Science in the Department of Human Sciences at The Ohio State University. My dissertation explores issues in health economics, particularly the effects of behavioral and policy factors on well-being. </p>
+
 
 <!---
 
