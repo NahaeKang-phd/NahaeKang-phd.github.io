@@ -7,9 +7,8 @@ permalink: /
 author_profile: true
 redirect_from:
 
-* /about/
-* /about.html
-
+    - /about/
+    - /about.html
 ---
 
 <p> Hello, I am a passionate researcher in applied economics and health economics. My research interests lie at the intersection of policy evaluation, children's health, and environmental health. </p>
