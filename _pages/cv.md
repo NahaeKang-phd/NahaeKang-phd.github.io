@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D. Consumer Sciences, Ohio State University, 2025
 * M.A. Economics, Korea University, Seoul, 2020
 * B.A. Food and Resources Economics, Korea University, Seoul, <i>with Great Honor</i>, 2015
 
