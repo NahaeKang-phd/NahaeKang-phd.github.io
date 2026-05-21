@@ -10,6 +10,8 @@ redirect_to: /images/CV.pdf
 
 {% include base_path %}
 
+You can view my full [CV](/images/CV.pdf) here.
+
 Education
 ======
 * Ph.D. Consumer Sciences, Ohio State University, 2025
